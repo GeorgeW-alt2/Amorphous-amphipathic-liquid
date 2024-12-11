@@ -1,1 +1,1 @@
-Amorphous amphipathic liquid for hydro pump generator.
+Triggerable amorphous amphipathic liquid for hydro pump power generators.
